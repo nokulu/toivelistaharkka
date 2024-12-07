@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="game.hpp" />
     <ClInclude Include="menu.hpp" />
+    <ClInclude Include="wish.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

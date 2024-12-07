@@ -26,5 +26,8 @@
     <ClInclude Include="menu.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="wish.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

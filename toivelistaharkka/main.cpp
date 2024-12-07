@@ -6,6 +6,7 @@
 #include <iomanip> 
 #include "menu.hpp"
 #include "game.hpp"
+#include "wish.hpp"
 
 int main() {
     std::string filename = "pelit.txt"; 

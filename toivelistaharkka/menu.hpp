@@ -19,3 +19,4 @@ public:
         std::cout << "Kirjoita valintasi: ";
     }
 };
+ 
